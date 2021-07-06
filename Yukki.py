@@ -20,7 +20,8 @@ b = API_HASH
 smex = STRING
 smexx = STRING2
 smexxx = STRING3
-
+smexxxx = STRING4
+smexxxxx = STRING5
 
 idk = ""
 ydk = ""
